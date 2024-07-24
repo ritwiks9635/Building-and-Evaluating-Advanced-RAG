@@ -1,5 +1,7 @@
 # **Building-and-Evaluating-Advanced-RAG**
 
+[Complete](https://learn.deeplearning.ai/accomplishments/d5f2d70d-5b0a-4646-8c21-cd7615f3d53c?usp=sharing)
+
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeyfoRhEXFykYI2q4xBgtGek5YYHhp41pZaA&usqp=CAU)
 
 Advanced Retrieval-Augmented Generation (RAG) techniques are a set of methods that improve the accuracy and relevance of large language model (LLM) applications by combining traditional language models with external knowledge bases. RAG techniques can be used in a wide range of applications, including chatbots, question-answering systems, content-generation tools, healthcare, and finance. 
