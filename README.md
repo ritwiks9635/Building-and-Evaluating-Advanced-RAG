@@ -1,5 +1,7 @@
 # **Building-and-Evaluating-Advanced-RAG**
 
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeyfoRhEXFykYI2q4xBgtGek5YYHhp41pZaA&usqp=CAU)
+
 Advanced Retrieval-Augmented Generation (RAG) techniques are a set of methods that improve the accuracy and relevance of large language model (LLM) applications by combining traditional language models with external knowledge bases. RAG techniques can be used in a wide range of applications, including chatbots, question-answering systems, content-generation tools, healthcare, and finance. 
 
 Advanced RAG techniques can help businesses that want to use generative AI by improving:
@@ -19,6 +21,7 @@ Advanced RAG can use pre-retrieval and post-retrieval strategies to improve retr
 
 RAG can be more cost-efficient than fine-tuning because it uses existing data and doesn't require extensive training stages. Developers can also use RAG to more efficiently test and improve their chat applications by controlling and changing the LLM's information sources. 
 
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjjjhU75Fd2Ht1X1OCMoBcCb9ZFkUgThsqwA&usqp=CAU)
 
 Advanced RAG evaluation, or Retrieval Augmented Generation (RAG) evaluation, measures how well a RAG pipeline performs. RAG is a framework that uses a Large Language Model (LLM) to generate responses that are relevant to a user's context. RAG evaluation assesses how well the retrieval component of a RAG pipeline selects and ranks relevant data or documents. 
 
